@@ -1,0 +1,27 @@
+{
+  "name": "css-rate-conversion",
+  "version": "1.0.0",
+  "description": "작성된 css 의 설정비율 만큼 단위 변경.",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richfaber/css-rate-conversion.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richfaber/css-rate-conversion/issues"
+  },
+  "homepage": "https://github.com/richfaber/css-rate-conversion#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "css": "^2.2.1",
+    "debug-trace": "^0.2.4",
+    "node-sass": "^3.9.3",
+    "path": "^0.12.7",
+    "util-extend": "^1.0.3"
+  }
+}
